@@ -8,7 +8,7 @@ All data has been collected from the free open source websit [(https://isimsf.rn
 Beautiful Soup is a Python package for parsing HTML and XML documents (including having malformed markup, i.e. non-closed tags, so named after tag soup). It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.
 ![image](https://github.com/wissemkarous/webscraping/assets/115191512/0a7059ba-fb66-4802-9242-403691d2d81f)
 
-# pss :
+# ps :
 u can leran basics of webscraping by checking webscraping file
 
 
