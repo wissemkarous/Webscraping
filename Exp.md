@@ -51,3 +51,4 @@ lets explain code **:
 
 This code essentially scrapes a web page for profiles, extracts information such as names, email addresses, and web page URLs, and stores that information in the `l` list for further processing.
 
+we can also try it with  other sites.
