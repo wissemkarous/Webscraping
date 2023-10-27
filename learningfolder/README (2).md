@@ -30,7 +30,7 @@ Scripts inside this repository are classified into two groups, beginner and adva
 
 <a href=https://github.com/je-suis-tm/web-scraping#3-newsletter-mena>3. Newsletter (MENA)</a>
 
-#### Notes
+#### Notes :
 
 <a href=https://github.com/je-suis-tm/web-scraping#1-proxy-authentication>1. Proxy Authentication</a>
 
