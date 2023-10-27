@@ -14,7 +14,7 @@ Scripts inside this repository are classified into two groups, beginner and adva
 
 ## Table of Contents
 
-#### Beginner
+#### Beginner:
 
 <a href=https://github.com/je-suis-tm/web-scraping#1-html-parse-tree-search-cme1>1. HTML Parse Tree Search (CME1)</a>
 
@@ -22,7 +22,7 @@ Scripts inside this repository are classified into two groups, beginner and adva
 
 <a href=https://github.com/je-suis-tm/web-scraping#3-regular-expression-shfe>3. Regular Expression (SHFE)</a>
 
-#### Advanced
+#### Advanced :
 
 <a href=https://github.com/je-suis-tm/web-scraping#1-sign-in-cqf>1. Sign-in (CQF)</a>
 
@@ -38,7 +38,7 @@ Scripts inside this repository are classified into two groups, beginner and adva
 
 <br>
 
-## Available Scrapers
+## Available Scrapers :
 
 * <a href=https://github.com/je-suis-tm/web-scraping/blob/master/MENA%20Newsletter.py>Al Jazeera AJ</a> 
 
