@@ -115,14 +115,14 @@ Here, result is a BeautifulSoup object. The attribute `find` returns the first m
 
 If we are interested in all the titles of the articles, we do
 
-```python
+```python :
 temp=result.find('div',class_='article article__list old__article-square').find_all('a')
 output=[i.text for i in temp]
 ```
 
 or
 
-```python
+```python :
 temp=result.find('div',attrs={'class':'article article__list old__article-square'}).find_all('a')
 output=[i.text for i in temp]
 ```
