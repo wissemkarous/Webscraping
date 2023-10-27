@@ -12,7 +12,7 @@ Scripts inside this repository are classified into two groups, beginner and adva
 
 <br>
 
-## Table of Contents
+## Table of Contents :
 
 #### Beginner:
 
@@ -84,7 +84,7 @@ Scripts inside this repository are classified into two groups, beginner and adva
 
 <br>
 
-## Beginner
+## Beginner :
 
 #### 1. HTML Parse Tree Search (CME1)
 
