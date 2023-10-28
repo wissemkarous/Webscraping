@@ -50,4 +50,5 @@ lets explain code **:
 
 24. `print('*****************')`: This line prints a separator to distinguish between different profiles in the console output.
 
-This code essentially scrapes a web page for profiles, extracts information such as names, email addresses, and web page URLs, and stores that information in the `l` list for further processing.
+ This code essentially scrapes a web page for profiles, extracts information such as names, email addresses, and web page URLs, and stores that information in 
+ the `l` list for further processing.
