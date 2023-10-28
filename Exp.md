@@ -37,7 +37,7 @@ lets explain code ** :
 
 18. `if len(mail.get('href').strip()) > 7:`: This line checks if the `href` attribute of the email hyperlink contains more than 7 characters. This is used as a condition to determine if an email address is present.
 
-19. `address = mail.get('href')[7:]`: If the condition in the previous line is met, this line extracts the email address by slicing the `href` attribute from the 8th character (position 7) onwards. The extracted email address is assigned to the `address` variable.
+19. `address = mail.get('href')[7:]`: If the condition in the previous line is met, this line extracts the email address by slicing the `href` attribute from the 8th character (position 7) onwards. The extracted email address is assigned to the `address` variable..
 
 20. `print(address)`: This line prints the extracted email address to the console.
 
