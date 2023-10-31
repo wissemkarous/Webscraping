@@ -1,4 +1,4 @@
-# Webscraping    :
+# Webscraping     :
 scraping data about isimsf teachers :
 ![image](https://github.com/wissemkarous/webscraping/assets/115191512/f8922cec-d2b9-43de-a35e-a62dd51000ca)
 
