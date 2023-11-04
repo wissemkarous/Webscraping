@@ -5,7 +5,7 @@ lets explain   code  *    *     :
  
 2. `import requests`: This line imports the `requests` library, which is commonly used to send HTTP requests to websites and retrieve their content.
 
-3. `url = "https://isimsf.rnu.tn/fra/enseignants"`: Here, a variable named `url` is assigned the URL of a web page you want to scrape. In this case, it's set to "https://isimsf.rnu.tn/fra/enseignants".
+3. `url = "https://isimsf.rnu.tn/fra/enseignants"`: Here, a variable named `url` is assigned the URL of a web page you want to scrape. In this case, it's set to "https://isimsf.rnu.tn/fra/enseignants". 
 
 4. `response = requests.get(url)`: This line sends an HTTP GET request to the URL specified in the `url` variable and stores the response in the `response` variable. The response object contains information about the HTTP response, such as the status code (e.g., 200 for a successful request).
 
