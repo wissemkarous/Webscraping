@@ -2,7 +2,7 @@
 lets explain   code  *    *     :   
    
 1. `from bs4 import BeautifulSoup`: This line imports the `BeautifulSoup` class from the `bs4` (Beautiful Soup 4) library. `BeautifulSoup` is a popular Python library used for web scraping and parsing HTML and XML documents.
-
+ 
 2. `import requests`: This line imports the `requests` library, which is commonly used to send HTTP requests to websites and retrieve their content.
 
 3. `url = "https://isimsf.rnu.tn/fra/enseignants"`: Here, a variable named `url` is assigned the URL of a web page you want to scrape. In this case, it's set to "https://isimsf.rnu.tn/fra/enseignants".
